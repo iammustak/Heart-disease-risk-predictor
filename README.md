@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Heart Disease Risk Assessment
 
 A Streamlit application that demonstrates a machine-learning classification model using patient health measurements from the supplied cleaned heart disease dataset.
@@ -58,3 +59,6 @@ The app displays the probability returned by the supplied Logistic Regression pi
 ## Dataset reference
 
 The original project describes the UCI Heart Disease dataset, collected from four hospitals. See the [UCI dataset page](https://archive.ics.uci.edu/dataset/45/heart+disease).
+=======
+# Heart-disease-risk-predictor
+>>>>>>> e1c6fe3ca0d480c2b2aff7f0bd3468672d14dc03
